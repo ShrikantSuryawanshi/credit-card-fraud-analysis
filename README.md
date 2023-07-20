@@ -1,6 +1,6 @@
 # credit-card-fraud-analysis
 Credit Card Fraud Analysis project is based on detecting a particular pattern in which most of the fraud happens in the banking industry. A Machine Learning technique Logistic Regression has used in this project which classifies a transaction as legit or fraud. The coding part is done in Python Jupyter notebook.
-Dataset link - 
+Dataset link - https://rb.gy/iy0t7
 Libraries used - numpy, pandas, sklearn for train_test_split, LogisticRegression and accuracy_score
   The dataset contains 284807 rows and 31 columns. The column names have been kept secret due to privacy issues because the data is related to customers' transaction.
 There are only few transactions which are fradulent and others are legit. For model building purpose, the legit transaction is coded as 0 and fraud transaction as 1.
